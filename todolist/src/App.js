@@ -83,7 +83,7 @@ function App() {
   return (
     <div className="App">
       <div className="todo-header">
-        <h1>React Todo</h1>
+        <h1>Lista de Afazeres</h1>
       </div>
       <div className="todo-form">
         <h2>Insira sua próxima tarefa</h2>
